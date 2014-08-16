@@ -15,3 +15,6 @@ log.txt
 
 #NEDB files
 *.db
+
+#.idea
+.idea/*
