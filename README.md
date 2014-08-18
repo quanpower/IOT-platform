@@ -62,3 +62,8 @@ SmartLinkCloud.com
 
     node mqtt-subscribe-client.js
     node mqtt-publish-client.js
+
+4.测试mqtt-secure-client
+
+    node mqtt-secure-server.js
+    node mqtt-secure-client.js
